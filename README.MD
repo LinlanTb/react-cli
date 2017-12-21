@@ -17,7 +17,7 @@ Webpack打包React的脚手架，可自动识别 ./src  目录下的 .js 文件�
 ## 使用
 
 ````
-git clone https://github.com/jun-lu/react-webpack-example.git
+git clone https://github.com/LinlanTb/react-cli.git
 cd react-webpack-example
 npm install
 npm start //访问 http://127.0.0.1:8080/index.html
@@ -47,12 +47,7 @@ var rootPath = "./src";
 var distPath = "./build";
 ````
 
-* cdn 
 
-````
-var daily_publicPath = "http://daily.yuantutech.com";
-var dist_publicPath = "http://s.yuantutech.com";
-````
 
 ## 命令
 
